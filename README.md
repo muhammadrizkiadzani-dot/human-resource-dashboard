@@ -121,6 +121,36 @@ A production-ready UI/UX interface was drafted in Power BI matching modern corpo
 ![Back Navigation](Dashboard/Back%20to%20first.png)
 
 ---
+---
+
+## 🎛️ Interactive Slicer Panel & Filter Controls
+
+Below is the verification of the dynamic slice controls implemented across the multi-page HR dashboard, enabling granular and continuous cross-filtering scenarios.
+
+### 📊 Page 1: Workforce Overview Filter Capabilities
+*Demonstrating data consistency across demographic and regional slicing options on the main overview page.*
+
+| Slicer Dimension | Interface Preview |
+| :--- | :--- |
+| **Marital Status Slicer** <br> *Slicing across marital metrics: Single, Married, Divorced, and Prefer not to say.* | ![Marital Status Filter Control](Dashboard/Slicer/Marital%20Status%20Slicer.png) |
+| **Gender Diversity Slicer** <br> *Filtering talent distributions dynamically by Female, Male, Non-binary, and undisclosed entries.* | ![Gender Filter Control](Dashboard/Slicer/Gender%20Diversity%20Slicer.png) |
+| **Regional Geography Slicer** <br> *Isolating staff concentrations split into corporate clusters like Jabodetabek, Jawa, Sumatra, and East Indonesia.* | ![Region Filter Control](Dashboard/Slicer/Regional%20Geography%20Slicer.png) |
+| **Performance Rating Slicer** <br> *Sifting through corporate tier levels from Outstanding down to Needs Improvement bands.* | ![Performance Filter Control](Dashboard/Slicer/Performance%20Rating%20Slicer.png) |
+| **Time Intelligence Slicer (Yearly)** <br> *Deep-diving into chronological analytics to audit timeline parameters.* | ![Yearly Filter Control](Dashboard/Slicer/Time%20Intelligence%20Slicer%20%28Yearly%29.png) |
+| **Time Intelligence Slicer (Monthly)** <br> *Granular breakdown enabling monthly trend audits (e.g., historical tracking inside specific fiscal months).* | ![Monthly Filter Control](Dashboard/Slicer/Time%20Intelligence%20Slicer%20%28Monthly%29.png) |
+
+---
+
+### 📉 Page 2: Attrition & Retention Deep-Dive Filters
+*Operational slice controls mapped out inside the second module to investigate underlying termination factors and structural turnover indexes.*
+
+| Slicer Dimension | Interface Preview |
+| :--- | :--- |
+| **Employment Type Slicer** <br> *Sifting staff parameters by operational contract boundaries: Full-time, Contract, Intern, or Part-time.* | ![Employment Type Filter Control](Dashboard/Slicer/Employement%20Type.png) |
+| **Department & Role Hierarchy Slicer** <br> *Deep-diving down organizational trees (e.g., Customer Support, Engineering, HR) to calculate localized attrition rates.* | ![Department and Region Filter Control](Dashboard/Slicer/Department%20and%20Region.png) |
+
+---
+
 
 ## 🚀 How To Clone and Run This Repository
 
