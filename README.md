@@ -64,15 +64,19 @@ A production-ready UI/UX interface was drafted in Power BI matching modern corpo
 
 ## 📊 Interactive Dashboard Previews & Features
 
+---
+
+## 📊 Interactive Dashboard Previews & Features
+
 ### 1. Workforce Executive Summary (Page 1 - Overview)
 *Strategic macro insights tracking overall workforce demographics, job levels, diversity, and operational capacity across operational regions. It captures the baseline of 5,000 total registered employees, 4,000 active staff, and a global 11.66% turnover rate.*
 
 #### Default Macro View
-![Workforce Overview Dashboard - Default](Workforce%20Executive%20Summary%20-%20Overview%20Page.png)
+![Workforce Overview Dashboard - Default](Dashboard/Workforce%20Executive%20Summary%20-%20Overview%20Page.png)
 
 #### Dynamic Slicing & Scenario Analysis
 *Demonstrates cross-filtering power. Slicing by Marital Status, Gender, Region, and Performance instantly narrows the data down to specific employee metrics, revealing localized insights.*
-![Workforce Overview Dashboard - Filtered](Dynamic%20Slicing%20%26%20Deep-Dive%20Analysis%20Score.png)
+![Workforce Overview Dashboard - Filtered](Dashboard/Dynamic%20Slicing%20%26%20Deep-Dive%20Analysis%20Score.png)
 
 ---
 
@@ -80,14 +84,14 @@ A production-ready UI/UX interface was drafted in Power BI matching modern corpo
 *Deep-dive evaluation of month-over-month resignation trends, organizational turnover velocity, and matrix-based heatmaps to isolate retention risk zones by department and specific roles.*
 
 #### Default Analytics View
-![Attrition Analytics Dashboard - Default](Attrition%20%26%20Employee%20Turnover%20Deep-Dive%20Dashboard.png)
+![Attrition Analytics Dashboard - Default](Dashboard/Attrition%20%26%20Employee%20Turnover%20Deep-Dive%20Dashboard.png)
 
 #### Hierarchy Cross-Filtering Control
 *HR can dynamically explore department hierarchies and specific role selections inside the slicer panels to instantly see targeted termination reasons and line graphs.*
-![Attrition Analytics Dashboard - Slicer](Dynamic%20Slicing%20on%20Attrition%20%26%20Department%20Hierarchy.png)
+![Attrition Analytics Dashboard - Slicer](Dashboard/Dynamic%20Slicing%20on%20Attrition%20%26%20Department%20Hierarchy.png)
 
 #### Additional Historical Trend Logs
-![Attrition Analytics Dashboard - Trend](Attrition%20%26%20Employee%20Turnover%20Deep-Dive%20Dashboard%20%282%29.png)
+![Attrition Analytics Dashboard - Trend](Dashboard/Attrition%20%26%20Employee%20Turnover%20Deep-Dive%20Dashboard%20%282%29.png)
 
 ---
 
@@ -95,14 +99,14 @@ A production-ready UI/UX interface was drafted in Power BI matching modern corpo
 *Correlating continuous training investments against employee internal promotion counts and organizational performance distributions to track competency development.*
 
 #### Default Talent Insights View
-![Talent Development Dashboard - Default](Talent%20Development.png)
+![Talent Development Dashboard - Default](Dashboard/Talent%20Development.png)
 
 #### Performance Distribution Analysis
-![Talent Development Dashboard - Performance](Performance%20Distribution%20Overview.png)
+![Talent Development Dashboard - Performance](Dashboard/Performance%20Distribution%20Overview.png)
 
 #### Full-Time Workforce Competency Scenario
 *Filtering specifically by Full-time employees dynamically recalibrates total training hours and filters the granular dataset table log in real-time.*
-![Talent Development Dashboard - Filtered](Dynamic%20Competency%20Tracking%20for%20Full-Time%20Workforce.png)
+![Talent Development Dashboard - Filtered](Dashboard/Dynamic%20Competency%20Tracking%20for%20Full-Time%20Workforce.png)
 
 ---
 
@@ -110,11 +114,11 @@ A production-ready UI/UX interface was drafted in Power BI matching modern corpo
 *A detailed granular matrix view engineered for HR operations, alongside interactive UI action controls like back and reset navigation buttons.*
 
 #### Granular Row Audit View
-![Table Data Dashboard](ranular%20Table%20View%20%26%20Historical%20Data%20Audit%20Logs.png)
+![Table Data Dashboard](Dashboard/ranular%20Table%20View%20%26%20Historical%20Data%20Audit%20Logs.png)
 
 #### UX Navigation & Reset Controls
-![UI UX Controls](Streamlined%20App-Like%20Navigation%20%26%20Interactive%20Reset%20Control.png)
-![Back Navigation](Back%20to%20first.png)
+![UI UX Controls](Dashboard/Streamlined%20App-Like%20Navigation%20%26%20Interactive%20Reset%20Control.png)
+![Back Navigation](Dashboard/Back%20to%20first.png)
 
 ---
 
