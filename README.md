@@ -68,11 +68,11 @@ A production-ready UI/UX interface was drafted in Power BI matching modern corpo
 *Strategic macro insights tracking overall workforce demographics, job levels, diversity, and operational capacity across operational regions. It captures the baseline of 5,000 total registered employees, 4,000 active staff, and a global 11.66% turnover rate.*
 
 #### Default Macro View
-![Workforce Overview Dashboard - Default](Workforce Executive Summary - Overview Page.png)
+![Workforce Overview Dashboard - Default](Workforce%20Executive%20Summary%20-%20Overview%20Page.png)
 
 #### Dynamic Slicing & Scenario Analysis
-*Demonstrates cross-filtering power. Slicing by Marital Status: Divorced + Gender: Male + Region: Jabodetabek + Performance: Exceeds Expectations instantly narrows the data down to 13 specific employees, revealing a localized turnover spike of 15.38%.*
-![Workforce Overview Dashboard - Filtered](dashboard_page1_filtered.png)
+*Demonstrates cross-filtering power. Slicing by Marital Status, Gender, Region, and Performance instantly narrows the data down to specific employee metrics, revealing localized insights.*
+![Workforce Overview Dashboard - Filtered](Dynamic%20Slicing%20%26%20Deep-Dive%20Analysis%20Score.png)
 
 ---
 
@@ -80,11 +80,14 @@ A production-ready UI/UX interface was drafted in Power BI matching modern corpo
 *Deep-dive evaluation of month-over-month resignation trends, organizational turnover velocity, and matrix-based heatmaps to isolate retention risk zones by department and specific roles.*
 
 #### Default Analytics View
-![Attrition Analytics Dashboard - Default](dashboard_page2_default.png)
+![Attrition Analytics Dashboard - Default](Attrition%20%26%20Employee%20Turnover%20Deep-Dive%20Dashboard.png)
 
 #### Hierarchy Cross-Filtering Control
 *HR can dynamically explore department hierarchies and specific role selections inside the slicer panels to instantly see targeted termination reasons and line graphs.*
-![Attrition Analytics Dashboard - Slicer](dashboard_page2_filtered.png)
+![Attrition Analytics Dashboard - Slicer](Dynamic%20Slicing%20on%20Attrition%20%26%20Department%20Hierarchy.png)
+
+#### Additional Historical Trend Logs
+![Attrition Analytics Dashboard - Trend](Attrition%20%26%20Employee%20Turnover%20Deep-Dive%20Dashboard%20%282%29.png)
 
 ---
 
@@ -92,17 +95,26 @@ A production-ready UI/UX interface was drafted in Power BI matching modern corpo
 *Correlating continuous training investments against employee internal promotion counts and organizational performance distributions to track competency development.*
 
 #### Default Talent Insights View
-![Talent Development Dashboard - Default](dashboard_page3_default.png)
+![Talent Development Dashboard - Default](Talent%20Development.png)
+
+#### Performance Distribution Analysis
+![Talent Development Dashboard - Performance](Performance%20Distribution%20Overview.png)
 
 #### Full-Time Workforce Competency Scenario
 *Filtering specifically by Full-time employees dynamically recalibrates total training hours and filters the granular dataset table log in real-time.*
-![Talent Development Dashboard - Filtered](dashboard_page3_filtered.png)
+![Talent Development Dashboard - Filtered](Dynamic%20Competency%20Tracking%20for%20Full-Time%20Workforce.png)
 
 ---
 
-### 4. Tabular Data Log Audit (Page 4 - Operational View)
-*A detailed granular matrix view engineered for HR operations, allowing row-by-row internal cross-checking, hire date validation, and clean historical log auditing.*
-![Table Data Dashboard](dashboard_page4.png)
+### 4. Tabular Data Log Audit & UI Controls (Page 4 - Operational View)
+*A detailed granular matrix view engineered for HR operations, alongside interactive UI action controls like back and reset navigation buttons.*
+
+#### Granular Row Audit View
+![Table Data Dashboard](ranular%20Table%20View%20%26%20Historical%20Data%20Audit%20Logs.png)
+
+#### UX Navigation & Reset Controls
+![UI UX Controls](Streamlined%20App-Like%20Navigation%20%26%20Interactive%20Reset%20Control.png)
+![Back Navigation](Back%20to%20first.png)
 
 ---
 
@@ -110,7 +122,7 @@ A production-ready UI/UX interface was drafted in Power BI matching modern corpo
 
 1. **Clone the Portfolio Repository:**
    ```bash
-   git clone https://github.com/muhammadrizkiadzani/workforce-insights-bi.git
+   git clone https://github.com
    cd workforce-insights-bi
    ```
 
@@ -122,4 +134,4 @@ A production-ready UI/UX interface was drafted in Power BI matching modern corpo
    ```
 
 3. **Explore Dashboard Visuals:**
-   Open the file inside the `/dashboard` directory directly using **Power BI Desktop** to explore the interactive elements and relational model structures.
+   Open the file inside the repository directly using **Power BI Desktop** to explore the active filtering elements, layout pages, and underlying relational model structures.
