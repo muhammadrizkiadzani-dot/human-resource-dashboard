@@ -68,7 +68,7 @@ A production-ready UI/UX interface was drafted in Power BI matching modern corpo
 *Strategic macro insights tracking overall workforce demographics, job levels, diversity, and operational capacity across operational regions. It captures the baseline of 5,000 total registered employees, 4,000 active staff, and a global 11.66% turnover rate.*
 
 #### Default Macro View
-![Workforce Overview Dashboard - Default](dashboard_page1_default.png)
+![Workforce Overview Dashboard - Default](Workforce Executive Summary - Overview Page.png)
 
 #### Dynamic Slicing & Scenario Analysis
 *Demonstrates cross-filtering power. Slicing by Marital Status: Divorced + Gender: Male + Region: Jabodetabek + Performance: Exceeds Expectations instantly narrows the data down to 13 specific employees, revealing a localized turnover spike of 15.38%.*
